@@ -1,4 +1,3 @@
-from audioop import reverse
 import random
 from tile import Tile
 import numpy as np
